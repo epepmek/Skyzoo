@@ -440,14 +440,14 @@ global.gcwangsaf = 'https://chat.whatsapp.com/Htbopc53nFD3puFb3LfMe1'
 
 /*Donasi*/
 global.saweria = '-'
-global.dana = ['089606790112']
+global.dana = ['081515696780']
 global.pulsa = ['089606790112']
 global.trakteer = '-'
 global.paypal = 'nb.boruto.official@gmail.com'
-global.gopay = '089606790112'
-global.pdana = '089606790112'
+global.gopay = '081515696780'
+global.pdana = '081515696780'
 global.povo = '-'
-global.pgopay = '089606790112'
+global.pgopay = '081515696780'
 global.ppulsa = '089606790112'
 global.ppulsa2 = '089606790112'
 global.psaweria = '-'
