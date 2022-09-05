@@ -59,7 +59,7 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
 await conn.reply(m.chat, info, m, { quoted: fgif, contextInfo: { externalAdReply: { showAdAttribution: true, title: botdate, body: bottime, sourceUrl: snh, thumbnail: fs.readFileSync('./thumbnail.jpg') }}})
 
 }
-handler.customPrefix = /^(sewa|sewabot|.sewa|.sewabot)$/i
+handler.customPrefix = /^(sewa|sewabot|.sewa|.sewabot|Undangan untuk bergabung ke grup WhatsApp saya)$/i
 handler.command = new RegExp
 
 export default handler
