@@ -4,14 +4,14 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `*• SEWA BOT & UP TO PREMIUM •*
         
 1. Grup / 30 Hari
-Rp. 15.000 Dana
-Rp. 15.000 Pulsa
+Rp. 20.000 Dana/Gopay
+Rp. 25.000 Pulsa
 2. Premium / 30 Hari
-Rp. 10.000 Dana
-Rp. 10.000 Pulsa
-3. Premium + Grup / 30 Hari
-Rp. 20.000 Dana
+Rp. 15.000 Dana/Gopay
 Rp. 20.000 Pulsa
+3. Premium + Grup / 30 Hari
+Rp. 20.000 Dana/Gopay
+Rp. 35.000 Pulsa
 
 *BELI?  CHAT OWNER*
 wa.me/6289606790112`
