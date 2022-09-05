@@ -6,16 +6,7 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6282195322106', '️One', true],
-  ['6282195322106', '️Two', true],
-  ['6282195322106', '️Three', true],
-  ['6282195322106', '️Four', true],
-  ['6282195322106', '️Five', true],
-  ['6282195322106', '️Six', true],
-  ['6282195322106', '️Seven', true],
-  ['6282195322106', '️Eight', true],
-  ['6282195322106', '️Nine', true],
-  ['6282195322106', '️Teen', true]
+  ['6289606790112', '️RezaOfc', true]
 ]
 global.mods = []
 global.prems = []
@@ -84,15 +75,15 @@ global.xckey = 'BOhjM2hUVn'
 */
 
 /*Number*/
-global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
-global.namebot = 'ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
-global.nameown = '「 Oᴡɴᴇʀ 」'
+global.nomorbot = '6283823103071'
+global.nomorown = '6289606790112'
+global.namebot = 'EzaBot-MD'
+global.nameown = '「 RezaOfc 」'
 
 /*Watermark*/
-global.wm = '                「 ʜɪɴᴀᴛᴀ-ʙᴏᴛ あ⁩ 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ʜɪɴᴀᴛᴀ-ʙᴏᴛ'
+global.wm = '                「 EzaBot-MD⁩ 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘RezaOfc˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ EzaBot-MD'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -434,32 +425,32 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ 𝗛𝗶𝗻𝗮𝘁𝗮 乂 𝘄𝘂𝗱𝘆𝘀𝗼𝗳𝘁\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
-global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '𝗛𝗶𝗻𝗮𝘁𝗮 乂 𝘄𝘂𝗱𝘆𝘀𝗼𝗳𝘁'
+global.stickauth = `☂︎EzaBot-Md\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.packname = '☂︎ Cʀᴇᴀᴛᴇᴅ Bʏ'
+global.author = 'EzaBot-MD'
 global.multiplier = 10
 
 /*Pesan*/
-global.eror = '*ᴇʀᴏʀʀ!*'
-global.wait = '*ᴡᴀɪᴛ!*'
-global.render = '*ʀᴇɴᴅᴇʀ!*'
-global.webs = 'https://s.id/Cerdasin62'
-global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
-global.gcwangsaf = 'https://chat.whatsapp.com/Fxz8FpQ0ddr2GrEjfYkJ1E'
+global.eror = 'Erorr...'
+global.wait = 'Wait...'
+global.render = 'Render...'
+global.webs = ''
+global.logo = 'https://telegra.ph/file/b22ded093f0afe6cf10da.jpg'
+global.gcwangsaf = 'https://chat.whatsapp.com/Htbopc53nFD3puFb3LfMe1'
 
 /*Donasi*/
-global.saweria = 'https://saweria.co/wudysoft'
-global.dana = '0887435373103'
-global.pulsa = '082195322106'
-global.trakteer = 'https://trakteer.id/wudysoft'
-global.paypal = 'wudysoft@mail.com'
-global.gopay = '082195322106'
-global.pdana = '0887435373103'
-global.povo = '082195322106'
-global.pgopay = '082195322106'
-global.ppulsa = '082195322106'
-global.ppulsa2 = '082195322106'
-global.psaweria = 'https://saweria.com/Wudysoft'
+global.saweria = '-'
+global.dana = ['089606790112']
+global.pulsa = ['089606790112']
+global.trakteer = '-'
+global.paypal = 'nb.boruto.official@gmail.com'
+global.gopay = '089606790112'
+global.pdana = '089606790112'
+global.povo = '-'
+global.pgopay = '089606790112'
+global.ppulsa = '089606790112'
+global.ppulsa2 = '089606790112'
+global.psaweria = '-'
 
 /*Emoji*/
 global.rpg = {
