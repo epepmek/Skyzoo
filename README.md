@@ -230,7 +230,6 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 ## ```Recode By 💌```
 [![SkyzooDev](https://github.com/SkyzooDev.png?size=100)](https://github.com/SkyzooDev)
-[![AbiOfc](https://github.com/abiofc.png?size=100)](https://github.com/abiofc)
 
 ## ```Contributor 📣```
 * [`SkyzooDev`](https://github.com/SkyzooDev)
