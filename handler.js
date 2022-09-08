@@ -1432,7 +1432,7 @@ ${nmsr} Perintah ini hanya untuk member *Premium* !`,
         group: `*${htki} 𝐀𝐋𝐄𝐑𝐓 ${htka}*\n
 ${nmsr} Perintah ini hanya dapat digunakan di grup !`,
         private: `*${htki} 𝐀𝐋𝐄𝐑𝐓 ${htka}*\n
-${nmsr} Perintah ini hanya dapat digunakan di Chat Pribadi !`,
+${nmsr} Perintah ini hanya dapat digunakan di Private Chat !`,
         admin: `*${htki} 𝐀𝐋𝐄𝐑𝐓 ${htka}*\n
 ${nmsr} Perintah ini hanya untuk *Admin* grup !`,
         botAdmin: `*${htki} 𝐀𝐋𝐄𝐑𝐓 ${htka}*\n
