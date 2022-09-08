@@ -232,6 +232,6 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 [![SkyzooDev](https://github.com/SkyzooDev.png?size=100)](https://github.com/SkyzooDev)
 
 ## ```Contributor 📣```
-* [SkyzooDev](https://github.com/SkyzooDev).png?size=100](https://github.com/SkyzooDev)
-* [Hinata](https://github.com/AyGemuy).png?size=100](https://github.com/AyGemuy)
-* [AbiOfc](https://github.com/abiofc).png?size=100](https://github.com/abiofc)
+[![SkyzooDev](https://github.com/SkyzooDev).png?size=100](https://github.com/SkyzooDev)
+[![Hinata](https://github.com/AyGemuy).png?size=100](https://github.com/AyGemuy)
+[![AbiOfc](https://github.com/abiofc).png?size=100](https://github.com/abiofc)
