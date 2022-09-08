@@ -1,42 +1,42 @@
 
 <p align="center">
-<img src="https://github.com/AyGemuy.png?size=500" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://github.com/SkyzooDev.png?size=500" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
 
 
 </p>
-<h1 align="center">HinataBot - MD</h1>
+<h1 align="center">SkyzooV1- MD</h1>
 <p align="center">
-  <a href="https://github.com/AyGemuy/HinataBot"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=HinataBot+Wudysoft+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+Wudysoft;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+  <a href="https://github.com/SkyzooDev"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=SkyzooV1+SkyzooDev+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+SkyzooDev;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
- <a href="#"><img title="HinataBot" src="https://img.shields.io/badge/HinataBot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="SkyzooV1" src="https://img.shields.io/badge/SkyzooV1-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-Wudysoft-blue.svg?style=for-the-badge&logo=github"></a>
+<a href=""><img title="Author" src="https://img.shields.io/badge/AUTHOR-SkyzooDev-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-<a href="https://github.com/AyGemuy/HinataBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AyGemuy/HinataBot?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/lwatchers"><img title="Watchers" src="https://img.shields.io/github/watchers/AyGemuy/HinataBot?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/AyGemuy/HinataBot?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/AyGemuy/HinataBot?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/issues"><img title="Issues" src="https://img.shields.io/github/issues/AyGemuy/HinataBot?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/AyGemuy/HinataBot?label=Issues&color=red&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/AyGemuy/HinataBot?label=PullRequest&color=success&style=flat-square"></a>
-<a href="https://github.com/AyGemuy/HinataBot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/AyGemuy/HinataBot?label=PullRequest&color=red&style=flat-square"></a>
+<a href="https://github.com/SkyzooDev/SkyzooV1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/SkyzooDev/SkyzooV1?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/SkyzooDev/SkyzooV1/lwatchers"><img title="Watchers" src="https://img.shields.io/github/watchers/SkyzooDev/SkyzooV1?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/SkyzooDev/SkyzooV1/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/SkyzooDev/SkyzooV1?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/SkyzooDev/SkyzooV1/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/SkyzooDev/SkyzooV1?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/SkyzooDev/SkyzooV1/issues"><img title="Issues" src="https://img.shields.io/github/issues/SkyzooDev/SkyzooV1?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/SkyzooDev/SkyzooV1/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/SkyzooDev/SkyzooV1?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/SkyzooDev/SkyzooV1/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/SkyzooDev/SkyzooV1?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/SkyzooDev/SkyzooV1/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/SkyzooDev/SkyzooV1?label=PullRequest&color=red&style=flat-square"></a>
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
   <a href="https://wa.me/628832154376">
-    <img align="left" alt="Wudysoft | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+    <img align="left" alt="SkyzooDev | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://tiktok.com/@upload_file">
-    <img align="left" alt="Wudysoft | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
+    <img align="left" alt="SkyzooDev | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://instagram.com/abityru24">
-    <img align="left" alt="Wudysoft | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+    <img align="left" alt="SkyzooDev | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:abiputrapratama34@gmail.com">
-    <img align="left" alt="Wudysoft | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+    <img align="left" alt="SkyzooDev | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
 
@@ -46,32 +46,6 @@
 [![GROUP KUMPUl BOT](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CXrvJ2ZfsD237nQXaVdw8n) 
 ---------
 
-#### KELEBIHAN 📍
-| Kelebihan | Check |
-|--------|--------|
-| **Fast Respon** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **No Internet** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Simple** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Button template** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Multi Device** |[✔️](https://github.com/AyGemuy/HinataBot) |
----------
-#### FITUR 📍
-| Fitur | Check |
-|--------|--------|
-| **Downloader** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Internet** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Game Rpg** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Nsfw** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Sticker** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Game** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Kerang Ajaib** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Quotes** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Anime** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Premium** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Tools** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **Exec** |[✔️](https://github.com/AyGemuy/HinataBot) |
-| **React** |[✔️](https://github.com/AyGemuy/HinataBot) |
----------
 
 ## `SETTING`
 
@@ -95,7 +69,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/AyGemuy/HinataBot/
+$ git clone https://github.com/SkyzooDev/SkyzooV1/
 $ cd HinataBot-master
 $ npm i 
 ```
@@ -132,13 +106,13 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & HinataBot]
+[ INSTALLING NODEJS & SkyzooV1]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/AyGemuy/HinataBot/
+git clone https://github.com/SkyzooDev/SkyzooV1/
 cd HinataBot-master
 npm install
 npm update
@@ -154,7 +128,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/AyGemuy/HinataBot/
+git clone https://github.com/SkyzooDev/SkyzooV1/
 cd HinataBot-master
 npm install
 npm update
@@ -255,7 +229,8 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`BochilGaming`](https://github.com/bochilgaming)
 
 ## ```Recode By 💌```
-[![HinataBot](https://github.com/SkyzooDev.png?size=100)](https://github.com/SkyzooDev)
+[![SkyzooDev](https://github.com/SkyzooDev.png?size=100)](https://github.com/SkyzooDev)
+[![AbiOfc](https://github.com/abiofc.png?size=100)](https://github.com/abiofc)
 
 ## ```Contributor 📣```
 * [`SkyzooDev`](https://github.com/SkyzooDev)
