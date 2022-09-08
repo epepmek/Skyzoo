@@ -6,7 +6,7 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6289606790112', '️RezaOfc', true]
+  ['628***', '️NamaMu', true]
 ]
 global.mods = []
 global.prems = []
@@ -75,15 +75,15 @@ global.xckey = 'BOhjM2hUVn'
 */
 
 /*Number*/
-global.nomorbot = '6283823103071'
-global.nomorown = '6289606790112'
-global.namebot = 'EzaBot-MD'
-global.nameown = '「 RezaOfc 」'
+global.nomorbot = '628****'//tulis aja nomer botmu
+global.nomorown = '62******'
+global.namebot = 'Nama Bot mu'
+global.nameown = '「 Nama Lu 」'
 
 /*Watermark*/
-global.wm = '                「 EzaBot-MD⁩ 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘RezaOfc˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ EzaBot-MD'
+global.wm = '                「 SkyzooDev-MD⁩ 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘SkyzooDev˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ SkyzooDev-MD'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -425,9 +425,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎EzaBot-Md\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
-global.packname = '☂︎ Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.author = 'EzaBot-MD'
+global.stickauth = `☂︎ SkyzooDev-Md\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.packname = '☂︎ SkyzooDev'
+global.author = 'Skyzoo-MD'
 global.multiplier = 10
 
 /*Pesan*/
@@ -440,16 +440,16 @@ global.gcwangsaf = 'https://chat.whatsapp.com/Htbopc53nFD3puFb3LfMe1'
 
 /*Donasi*/
 global.saweria = '-'
-global.dana = ['081515696780']
-global.pulsa = ['089606790112']
+global.dana = ['08***']//nomer dana
+global.pulsa = ['08****']
 global.trakteer = '-'
-global.paypal = 'nb.boruto.official@gmail.com'
-global.gopay = '081515696780'
-global.pdana = '081515696780'
+global.paypal = 'abiputrapratama34@gmail.com'
+global.gopay = '08*****'
+global.pdana = '08*******'
 global.povo = '-'
-global.pgopay = '081515696780'
-global.ppulsa = '089606790112'
-global.ppulsa2 = '089606790112'
+global.pgopay = '08********'
+global.ppulsa = '08********'
+global.ppulsa2 = '089******'
 global.psaweria = '-'
 
 /*Emoji*/
