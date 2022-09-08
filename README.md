@@ -232,5 +232,5 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 [![SkyzooDev](https://github.com/SkyzooDev.png?size=100)](https://github.com/SkyzooDev)
 
 ## ```Contributor 📣```
-*  [SkyzooDev](https://github.com/SkyzooDev).png?size=100](https://github.com/SkyzooDev)
+*  [SkyzooDev](https://github.com/SkyzooDev)
 *  [Hinata](https://github.com/AyGemuy)
