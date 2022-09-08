@@ -14,8 +14,8 @@ https://github.com/adiwajshing
 *Nurutomo:*
 https://github.com/Nurutomo
 
-*Istikmal:* 
-https://github.com/BochilGaming
+*SkyzooDev:* 
+https://github.com/SkyzooDev 
 
 *Ariffb:*
 https://github.com/Ariffb25
